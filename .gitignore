@@ -3,3 +3,4 @@ models
 llama-cpp-python
 .vscode
 __pycache__
+.txt
