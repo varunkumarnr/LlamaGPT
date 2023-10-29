@@ -47,3 +47,9 @@ python ./convert-llama-ggml-to-gguf.py --eps 1e-5 --input C:/Users/User/Document
 ```bash
 streamlit run app.py
 ```
+
+## Demo
+
+![App Screenshot](Screenshots\Model_SS.png)
+
+![App Screenshot](Screenshots\Model_SS1.png)
