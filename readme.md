@@ -50,6 +50,6 @@ streamlit run app.py
 
 ## Demo
 
-![App Screenshot](Screenshots\Model_SS.png)
+![App Screenshot](https://github.com/varunkumarnr/LlamaGPT/blob/master/Screenshots/Model_SS.png?raw=true)
 
-![App Screenshot](Screenshots\Model_SS1.png)
+![App Screenshot](https://github.com/varunkumarnr/LlamaGPT/blob/master/Screenshots/Model_SS1.png?raw=true)
