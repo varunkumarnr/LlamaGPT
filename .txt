@@ -1,0 +1,3 @@
+ C:\Users\varkumar11\.virtualenvs\Langchain-rtFUf084
+
+streamlit run app.py

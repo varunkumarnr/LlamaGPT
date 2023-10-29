@@ -1,0 +1,5 @@
+.env
+models
+llama-cpp-python
+.vscode
+__pycache__
